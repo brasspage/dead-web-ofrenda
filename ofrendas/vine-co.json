@@ -1,0 +1,96 @@
+{
+  "domain": "vine.co",
+  "name": "Vine",
+  "model": "gemma-4-31b-it",
+  "started": "2026-10-30T12:20:38.110Z",
+  "search": {
+    "engine": "duckduckgo",
+    "query": "Vine shut down date",
+    "results": [
+      {
+        "title": "Vine (service) - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Vine_(service)",
+        "snippet": "Vine was a short-form video hosting service where users could share up to 6-second-long looping video clips. Founded in June 2012 by Rus Yusupov, Dom Hofmann and Colin Kroll, [1][2] the company was bought by Twitter, Inc. (now X), four months later for $30 million. [3] Vine launched with its iOS app on January 24, 2013, with Android and Windows versions following shortly after. Videos ...",
+        "date": ""
+      },
+      {
+        "title": "When Did Vine Shut Down? The True Story - news.terabox.com",
+        "link": "https://news.terabox.com/hub/when-did-vine-shut-down-and-why-did-twitter-kill-the-app",
+        "snippet": "The Short Answer Vine officially shut down its social networking features on January 17, 2017. While the mobile app transitioned into a simplified tool called \"Vine Camera,\" the ability to upload to the community platform, like posts, and follow other users was permanently removed on this date. The online archive of existing Vines remained accessible until April 2018, when it was officially ...",
+        "date": ""
+      },
+      {
+        "title": "Why Did Vine Shut Down? 6 Reasons for the App's Downfall - wikiHow",
+        "link": "https://www.wikihow.com/Why-Did-Vine-Shut-Down",
+        "snippet": "A full rundown of why Vine disappearedFrom 2013 to 2017, Vine was one of the most popular apps in America. So why did it shut down so suddenly? Vine's six-second looping videos may seem similar to TikToks, but there are a few key...",
+        "date": "Jan 17, 2026"
+      },
+      {
+        "title": "Why Was Vine Shut Down? Key Reasons & Timeline",
+        "link": "https://unanswered.io/guide/why-was-vine-shut-down",
+        "snippet": "Vine was shut down on January 17, 2017, because it remained unprofitable and lost market share. Twitter announced the end of uploads on October 27, 2016, as part of cost-cutting efforts.",
+        "date": "Jul 15, 2026"
+      },
+      {
+        "title": "When did Vine Shut Down? - TechCult",
+        "link": "https://techcult.com/when-did-vine-shut-down/",
+        "snippet": "When did Vine Shut Down? You will get to know when did Vine shut down further in this article. Keep reading to learn more about it in detail. When did Vine Start? Vine was created by the founders of the social media company Dom Hofmann, Colin Kroll, and Rus Yusupov in 2013. The app was launched on January 24, 2013, and quickly became popular as a platform for creating and sharing short ...",
+        "date": ""
+      },
+      {
+        "title": "When Did Vine Shut Down? The 2016 Announcement and 2017 End Date",
+        "link": "https://www.peepstune.com/the-rise-and-fall-of-vine-when-did-it-shut-down/",
+        "snippet": "On that date, Vine became Vine Camera, a limited tool for making and exporting six-second videos. Vine.co remained as a read-only archive rather than an active social network, so \"shut down\" did not mean every old video vanished at once. What was Vine? Vine was a mobile video-sharing service built around looping clips of six seconds or less.",
+        "date": "Sep 23, 2026"
+      },
+      {
+        "title": "Why Did Vine Shut Down? The Real Reasons Twitter Ended the App",
+        "link": "https://www.peepstune.com/the-downward-spiral-of-vine-why-twitter-shut-down-the-app/",
+        "snippet": "Vine shut down in January 2017 after weak monetization, creator migration, fierce competition, and Twitter's cost-cutting and product strategy made the standalone app unsustainable.",
+        "date": "Sep 12, 2026"
+      },
+      {
+        "title": "Why Did Vine Shut Down? The Real Reasons It Failed (2017)",
+        "link": "https://www.startupbooted.com/why-did-vine-shut-down",
+        "snippet": "Vine shut down in January 2017 because Twitter, which acquired the platform before it even launched, failed to build a creator monetization model, lost its top talent to competitors who paid better, and ultimately cut the app while fighting for its own financial survival. The format wasn't the problem. The strategy was.Why Did Vine Shut Down — The Rise That Masked Its FragilityVine's ...",
+        "date": "Jun 29, 2026"
+      }
+    ]
+  },
+  "obituary": {
+    "raw": "{\n  \"announced\": \"2016-10-27\",\n  \"died\": \"2017-01-17\",\n  \"cause\": \"Vine was shut down because it remained unprofitable, lost market share, and was part of Twitter's cost-cutting efforts.\",\n  \"source\": 1,\n  \"evidence\": \"Vine officially shut down its social networking features on January 17, 2017.\"\n}",
+    "ok": true,
+    "died": "2017-01-17",
+    "cause": "Vine was shut down because it remained unprofitable, lost market share, and was part of Twitter's cost-cutting efforts.",
+    "evidence": "Vine officially shut down its social networking features on January 17, 2017.",
+    "source": {
+      "title": "When Did Vine Shut Down? The True Story - news.terabox.com",
+      "link": "https://news.terabox.com/hub/when-did-vine-shut-down-and-why-did-twitter-kill-the-app"
+    }
+  },
+  "snapshot": {
+    "timestamp": "20170116234505",
+    "date": "2017-01-16",
+    "url": "https://web.archive.org/web/20170116234505/https://vine.co/",
+    "title": "Vine",
+    "image": "https://web.archive.org/web/20170116234505im_/https://vine.co/assets/images/meta/vine_screencap.png",
+    "text_chars": 4
+  },
+  "attempts": [
+    {
+      "raw": "{\n  \"what\": \"The site was Vine.\",\n  \"last_words\": \"Vine\",\n  \"calavera\": \"Dear Vine, you looped with a playful art,\\nCapturing moments, a short-form start.\\nBut market shares fell and costs were too high,\\nSo Twitter waved a budget-cut goodbye.\"\n}",
+      "verified": false
+    },
+    {
+      "raw": "{\n  \"what\": \"The site was Vine.\",\n  \"last_words\": \"Vine\",\n  \"calavera\": \"Oh Vine, you looped with a flair,\\nBut lost all your market share.\\nTwitter cut costs to save the day,\\nAnd swept your little loops away.\"\n}",
+      "verified": false
+    }
+  ],
+  "ofrenda": {
+    "what": "The site was Vine.",
+    "last_words": null,
+    "calavera": "Oh Vine, you looped with a flair,\nBut lost all your market share.\nTwitter cut costs to save the day,\nAnd swept your little loops away."
+  },
+  "error": null,
+  "finished": "2026-10-30T12:24:05.042Z"
+}

@@ -1,0 +1,92 @@
+{
+  "domain": "friendster.com",
+  "name": "Friendster",
+  "model": "gemma-4-31b-it",
+  "started": "2026-10-30T12:37:08.907Z",
+  "search": {
+    "engine": "duckduckgo",
+    "query": "Friendster shut down date",
+    "results": [
+      {
+        "title": "Friendster - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Friendster",
+        "snippet": "Friendster said that the focus would now be on pure \"entertainment and fun\", and the aim was not to compete with Facebook, but rather to complement it. [28] On June 14, 2015, the site and all its services shut down indefinitely, [29] but the company did not officially shutter until the end of June 2018.",
+        "date": ""
+      },
+      {
+        "title": "Friendster: what happened, and what it is now | Looks Back",
+        "link": "https://looksback.com/friendster",
+        "snippet": "Friendster was the first mass social network, launched in March 2002 by Jonathan Abrams, and famously turned down a $30 million offer from Google in 2003. It peaked around 115 million registered users, mostly in Southeast Asia, pivoted to gaming in 2011 and shut down for good on 14 June 2015.",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "title": "The Rise and Fall: What Happened To Friendster? - Failory",
+        "link": "https://www.failory.com/cemetery/friendster",
+        "snippet": "Why Did Friendster Fail and Shut Down? Friendster seemed like a fun place to hang out, with all the right bells and whistles to lead the way. What went wrong then? Friendster did two things particularly well: it offered social gaming and it gave users reasons to keep coming back to its platform.",
+        "date": ""
+      },
+      {
+        "title": "Friendster back after 10 years - ABS-CBN News",
+        "link": "https://www.abs-cbn.com/news/technology/2026/4/30/friendster-back-after-10-years-1107",
+        "snippet": "Friendster, one of the world's first social media platforms, shut down its social networking services in 2011, admitting that \"it's a Facebook world.\" It re-launched a year later as a social entertainment site where users will be able to play games and listen to music.",
+        "date": "Apr 30, 2026"
+      },
+      {
+        "title": "Is Friendster still up? No, shut down in 2015 · Still Up Since",
+        "link": "https://stillupsince.com/friendster",
+        "snippet": "No. Friendster shut down in 2015, after running from 2002 to 2015. 2002 to 2015. Before Myspace was the old social network, Friendster was.",
+        "date": ""
+      },
+      {
+        "title": "Friendster (2002 - 2015) :: rip.so",
+        "link": "https://rip.so/friendster.html",
+        "snippet": "Friendster shut down on 14 June 2015. the first big social network in the US, eaten by myspace, then pivoted to southeast asia gaming before it folded.",
+        "date": ""
+      },
+      {
+        "title": "Why Did Friendster Shutdown? Here is the complete analysis!",
+        "link": "https://bizzbucket.co/friendster-shutdown-analysis/",
+        "snippet": "Failure Analysis Friendster was successful in coming up with revolutionary products and also had sufficient funding to have a big start. The site shut down its social media networking services on June 14, 2015, and sold off to become a gaming site. Key areas in which the company lagged were Technology, user experience, and platform.",
+        "date": ""
+      },
+      {
+        "title": "Friendster Shutdown: Why the Original Social Network Lost to MySpace",
+        "link": "https://ideaproof.io/failure/friendster",
+        "snippet": "Friendster launched March 2003 as the first mass-market social network. Reports of Google's 2003 $30M acquisition offer (declined) became legendary. Site slowness, culture-of-frustration, and management churn ceded ground to MySpace and then Facebook. Friendster sold to MOL Global in 2009, pivoted to social gaming for Southeast Asia in 2011, and finally shut down permanently June 14, 2015.",
+        "date": ""
+      }
+    ]
+  },
+  "obituary": {
+    "raw": "{\n  \"announced\": null,\n  \"died\": \"2015-06-14\",\n  \"cause\": \"Friendster ceded ground to MySpace and Facebook due to site slowness and management churn, and finally shut down after pivoting to social gaming for Southeast Asia.\",\n  \"source\": 0,\n  \"evidence\": \"On June 14, 2015, the site and all its services shut down indefinitely\"\n}",
+    "ok": true,
+    "died": "2015-06-14",
+    "cause": "Friendster ceded ground to MySpace and Facebook due to site slowness and management churn, and finally shut down after pivoting to social gaming for Southeast Asia.",
+    "evidence": "On June 14, 2015, the site and all its services shut down indefinitely",
+    "source": {
+      "title": "Friendster - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Friendster"
+    }
+  },
+  "snapshot": {
+    "timestamp": "20150613091024",
+    "date": "2015-06-13",
+    "url": "https://web.archive.org/web/20150613091024/http://friendster.com/",
+    "title": "Friendster.com - Living the Game",
+    "image": "https://web.archive.org/web/20150613091024im_/http://site-assets.frndcdn.net/74578a9ccc903d87763cbf4b5e0051930bef6240/assets/friendster-fb-app.png",
+    "text_chars": 2452
+  },
+  "attempts": [
+    {
+      "raw": "{\n  \"what\": \"Friendster was a digital download platform for PC and MAC games and a hub for browser-based gaming.\",\n  \"last_words\": \"Friendster is Taking A Break\",\n  \"calavera\": \"You traded your friends for a gaming spree,\\nIn Southeast Asia, you thought you'd be free.\\nBut the site lagged on and the managers flew,\\nNow the skeleton plays Guns and Robots too.\"\n}",
+      "verified": true
+    }
+  ],
+  "ofrenda": {
+    "what": "Friendster was a digital download platform for PC and MAC games and a hub for browser-based gaming.",
+    "last_words": "Friendster is Taking A Break",
+    "calavera": "You traded your friends for a gaming spree,\nIn Southeast Asia, you thought you'd be free.\nBut the site lagged on and the managers flew,\nNow the skeleton plays Guns and Robots too."
+  },
+  "error": null,
+  "finished": "2026-10-30T12:38:14.341Z"
+}

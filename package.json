@@ -1,0 +1,15 @@
+{
+  "name": "dead-web-ofrenda",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An ofrenda for websites that died. An open-weight model reads each site's last archived page and writes it a calavera.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test --test-concurrency=1 test/lib.test.js",
+    "page": "node src/ofrenda.js page"
+  }
+}

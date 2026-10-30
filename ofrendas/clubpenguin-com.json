@@ -1,0 +1,92 @@
+{
+  "domain": "clubpenguin.com",
+  "name": "Club Penguin",
+  "model": "gemma-4-31b-it",
+  "started": "2026-10-30T12:31:28.560Z",
+  "search": {
+    "engine": "duckduckgo",
+    "query": "Club Penguin shut down date",
+    "results": [
+      {
+        "title": "Club Penguin - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Club_Penguin",
+        "snippet": "[4] Club Penguin shut down its servers on March 30, 2017 following an announcement on January 30, 2017; the game was replaced by Club Penguin Island, which itself was discontinued the following year.",
+        "date": ""
+      },
+      {
+        "title": "Club Penguin Island - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Club_Penguin_Island",
+        "snippet": "Club Penguin Island was a massively-multiplayer online role-playing game (MMORPG). It was a de facto successor to Club Penguin. [1] The game was released worldwide on March 29, 2017 and was created by Disney Canada Inc. [2] The game's public beta testing period took place in Australia and New Zealand from December 15, 2016 to its worldwide release, and in Canada from January 13, 2017 to its ...",
+        "date": ""
+      },
+      {
+        "title": "Club Penguin Shutdown Wiki | Fandom",
+        "link": "https://cp-shutdown.fandom.com/wiki/Club_Penguin_Shutdown_Wiki",
+        "snippet": "Welcome to the Club Penguin Shutdown Wiki Welcome to the Club Penguin Shutdown wiki! This wiki is about a series named Club Penguin Shutdown (CPS), created by Near Human Intelligence. The series revolves about what is happening in Club Penguin after its global shutdown.",
+        "date": ""
+      },
+      {
+        "title": "What Happened to Club Penguin? Both Shutdowns, Dated",
+        "link": "https://newsworldinside.com/what-happened-to-club-penguin/",
+        "snippet": "Club Penguin closed on March 29, 2017 and Club Penguin Island on December 20, 2018. Two shutdowns, two causes, and what officially exists now.",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "title": "Official Club Penguin Shutdown Announcement · Omeka",
+        "link": "https://omeka.ischool.utoronto.ca/items/show/695",
+        "snippet": "This document is an official announcement made by The Walt Disney Company regarding the shutting down of Club Penguin. The announcement is significant in marking the end of access to the original game servers in March 2017.",
+        "date": "Jul 27, 2026"
+      },
+      {
+        "title": "Why Did Club Penguin Shut Down and What Happened to the Private Servers?",
+        "link": "https://explore.oreateai.com/explore/why-did-club-penguin-shut-down-and-what-happened-to-the-private-servers",
+        "snippet": "Quick Answer: The Three Deaths of Club Penguin The original Club Penguin shut down on March 30, 2017 , primarily due to the industry-wide retirement of Adobe Flash Player and a strategic shift toward mobile gaming. Its successor, Club Penguin Island , failed to gain traction and was discontinued in December 2018 . Finally, the most popular fan-run revival, Club Penguin Rewritten , was seized ...",
+        "date": ""
+      },
+      {
+        "title": "What Happened To Club Penguin? Here's Why It Shut Down",
+        "link": "https://productmint.com/why-did-club-penguin-shut-down/",
+        "snippet": "Club Penguin was shut down because interest in the game continuously declined, which likely led to a significant decrease in revenue.",
+        "date": ""
+      },
+      {
+        "title": "Why Did Club Penguin Shut Down? The 2017 Closure Explained",
+        "link": "https://www.peepstune.com/why-did-club-penguin-close-what-happened-to-the-original-game/",
+        "snippet": "Disney closed the original Club Penguin in 2017 as it introduced mobile-only Club Penguin Island. Here's what the sources confirm—and what they don't.",
+        "date": "Oct 8, 2026"
+      }
+    ]
+  },
+  "obituary": {
+    "raw": "{\"announced\": \"2017-01-30\", \"died\": \"2017-03-30\", \"cause\": \"The original Club Penguin shut down primarily due to the industry-wide retirement of Adobe Flash Player and a strategic shift toward mobile gaming.\", \"source\": 0, \"evidence\": \"Club Penguin shut down its servers on March 30, 2017\"}",
+    "ok": true,
+    "died": "2017-03-30",
+    "cause": "The original Club Penguin shut down primarily due to the industry-wide retirement of Adobe Flash Player and a strategic shift toward mobile gaming.",
+    "evidence": "Club Penguin shut down its servers on March 30, 2017",
+    "source": {
+      "title": "Club Penguin - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Club_Penguin"
+    }
+  },
+  "snapshot": {
+    "timestamp": "20170329221423",
+    "date": "2017-03-29",
+    "url": "https://web.archive.org/web/20170329221423/http://www.clubpenguin.com/",
+    "title": "Club Penguin | Disney's #1 Virtual World For Kids",
+    "image": "https://web.archive.org/web/20170329221423im_/http://cpassets-a.akamaihd.net/sites/default/themes/club_penguin/img/common/200x200.jpg",
+    "text_chars": 580
+  },
+  "attempts": [
+    {
+      "raw": "{\n  \"what\": \"It was Disney's #1 virtual world for kids.\",\n  \"last_words\": \"Hello penguins, the Club Penguin virtual world will be closing March 29, 2017.\",\n  \"calavera\": \"Adobe Flash faded from the screen,\\nThe cutest penguins ever seen.\\nMobile games took over the flight,\\nNow Disney's world sleeps in the night.\"\n}",
+      "verified": true
+    }
+  ],
+  "ofrenda": {
+    "what": "It was Disney's #1 virtual world for kids.",
+    "last_words": "Hello penguins, the Club Penguin virtual world will be closing March 29, 2017.",
+    "calavera": "Adobe Flash faded from the screen,\nThe cutest penguins ever seen.\nMobile games took over the flight,\nNow Disney's world sleeps in the night."
+  },
+  "error": null,
+  "finished": "2026-10-30T12:32:17.773Z"
+}

@@ -1,0 +1,92 @@
+{
+  "domain": "mixer.com",
+  "name": "Mixer",
+  "model": "gemma-4-31b-it",
+  "started": "2026-10-30T12:38:52.226Z",
+  "search": {
+    "engine": "duckduckgo",
+    "query": "Mixer shut down date",
+    "results": [
+      {
+        "title": "Mixer (service) - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Mixer_(service)",
+        "snippet": "Mixer was an American video game live streaming platform. The service launched on January 5, 2016, as Beam, under the ownership of co-founders Matthew Salsamendi and James Boehm.",
+        "date": ""
+      },
+      {
+        "title": "Mixer: what happened, and why it shut down | Looks Back",
+        "link": "https://looksback.com/mixer",
+        "snippet": "Why it shut down Official line: Microsoft said \"the time needed to grow our own livestreaming community to scale was out of measure with the vision\" and closed Mixer on 22 July 2020, redirecting users to Facebook Gaming.",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "title": "Why did Mixer shut down? What happened to Mixer? - buildd",
+        "link": "https://buildd.co/startup/failure-stories/why-did-mixer-shut-down",
+        "snippet": "All Mixer partners and relevant mixer links were redirected and integrated into the Facebook gaming ecosystem. So, when did Mixer shut down? Mixer's staff and intellectual property were transferred to the Microsoft Teams division and interspersed with the product. Officially, Microsoft Mixer shut down on 22nd July 2020.",
+        "date": ""
+      },
+      {
+        "title": "Mixer shutdown — Streamers.wiki",
+        "link": "https://streamers.wiki/event/mixer-shutdown-2020/",
+        "snippet": "Microsoft shut down its Mixer streaming platform in July 2020, roughly a year after paying ~$100M for exclusivity deals with Ninja and Shroud — the cautionary tale that still shapes how top creators negotiate platform contracts.",
+        "date": ""
+      },
+      {
+        "title": "Mixer shuts down: Here's how the internet bid farewell",
+        "link": "https://www.sportskeeda.com/esports/mixer-shuts-down-here-s-how-the-internet-bid-farewell",
+        "snippet": "Microsoft's streaming platform, Mixer officially shut down on July 22nd. Here's how the streaming community reacted to the shutdown after Mixer merged with Facebook Gaming.",
+        "date": ""
+      },
+      {
+        "title": "What Happened To Mixer? 6 Reasons Why The Streaming Platform Shut Down",
+        "link": "https://productmint.com/what-happened-to-mixer-why-did-mixer-shut-down/",
+        "snippet": "Executive Summary: Mixer, initially launched as Beam, was a live streaming platform that enabled content creators to broadcast themselves in video format. Mixer shut down because of intensive competition, high cost of maintaining the product, lack of community building, employee turnover, technical issues, as well as Microsoft shifting its focus towards other products.",
+        "date": ""
+      },
+      {
+        "title": "Microsoft is closing Mixer — what went wrong? - Windows Central",
+        "link": "https://www.windowscentral.com/mixer-what-went-wrong",
+        "snippet": "How four years of unrealized potential saw an experimental live streaming start-up become Microsoft's next service shutdown.",
+        "date": ""
+      },
+      {
+        "title": "Mixer - Audiovisual Identity Database",
+        "link": "https://www.avid.wiki/Mixer",
+        "snippet": "In 2019, Mixer gained attention when it signed two top streamers (Ninja and Shroud) from its main competitor, Twitch to a contract with the service. However, citing an inability to scale its operations, Microsoft announced on June 22, 2020 that Mixer would be shut down by the end of July, and that an agreement had been made with Facebook for ...",
+        "date": "Aug 30, 2026"
+      }
+    ]
+  },
+  "obituary": {
+    "raw": "{\n  \"announced\": \"2020-06-22\",\n  \"died\": \"2020-07-22\",\n  \"cause\": \"Microsoft stated that the time needed to grow its own livestreaming community to scale was out of measure with the vision.\",\n  \"source\": 1,\n  \"evidence\": \"closed Mixer on 22 July 2020\"\n}",
+    "ok": true,
+    "died": "2020-07-22",
+    "cause": "Microsoft stated that the time needed to grow its own livestreaming community to scale was out of measure with the vision.",
+    "evidence": "closed Mixer on 22 July 2020",
+    "source": {
+      "title": "Mixer: what happened, and why it shut down | Looks Back",
+      "link": "https://looksback.com/mixer"
+    }
+  },
+  "snapshot": {
+    "timestamp": "20200721183647",
+    "date": "2020-07-21",
+    "url": "https://web.archive.org/web/20200721183647/https://mixer.com/",
+    "title": "Mixer | Interactive Livestreaming",
+    "image": "https://web.archive.org/web/20200721183647im_/https://mixer.com/_latest/assets/images/main/logos/full.svg",
+    "text_chars": 33
+  },
+  "attempts": [
+    {
+      "raw": "{\n  \"what\": \"Mixer was a platform for interactive livestreaming.\",\n  \"last_words\": \"Mixer | Interactive Livestreaming\",\n  \"calavera\": \"Oh Mixer, you streamed with such flair,\\nInteractive joy was everywhere.\\nBut the scale took too long for the vision's light,\\nSo you faded away into the night.\"\n}",
+      "verified": true
+    }
+  ],
+  "ofrenda": {
+    "what": "Mixer was a platform for interactive livestreaming.",
+    "last_words": "Mixer | Interactive Livestreaming",
+    "calavera": "Oh Mixer, you streamed with such flair,\nInteractive joy was everywhere.\nBut the scale took too long for the vision's light,\nSo you faded away into the night."
+  },
+  "error": null,
+  "finished": "2026-10-30T12:39:48.335Z"
+}

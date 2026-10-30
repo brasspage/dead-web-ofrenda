@@ -1,0 +1,92 @@
+{
+  "domain": "stadia.google.com",
+  "name": "Google Stadia",
+  "model": "gemma-4-31b-it",
+  "started": "2026-10-30T12:28:32.693Z",
+  "search": {
+    "engine": "duckduckgo",
+    "query": "Google Stadia shut down date",
+    "results": [
+      {
+        "title": "Google Stadia - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Google_Stadia",
+        "snippet": "Stadia initially received a mixed reception from reviewers, with most criticism directed at its limited library of games and lack of promised features. Google had initially intended to develop in-house games in addition to hosting games produced by third parties, but abandoned this plan in February 2021, shutting down its studios.",
+        "date": ""
+      },
+      {
+        "title": "Stadia",
+        "link": "https://stadia.google.com/gg/",
+        "snippet": "Thank you for playing with us. Stadia was shut down on January 18, 2023. Find up-to-date information in our Help Center. Learn more",
+        "date": ""
+      },
+      {
+        "title": "What was Google Stadia and why did it shut down? - Pocket-lint",
+        "link": "https://www.pocket-lint.com/games/news/google/143589-google-stadia-explained-price-release-date-games-list/",
+        "snippet": "Google Stadia closed down in January 2023. Here's everything you need to know about it.",
+        "date": ""
+      },
+      {
+        "title": "Gamers say goodbye to Google's Stadia as platform shuts - BBC",
+        "link": "https://www.bbc.com/news/technology-64293595",
+        "snippet": "Google will shut down its Stadia cloud-gaming service in the UK on Thursday, as it issues refunds to gamers. Stadia was touted as a \"Netflix for games\" when it launched, in November 2019, allowing ...",
+        "date": ""
+      },
+      {
+        "title": "Google Stadia Shuts Down: What You Need to Know",
+        "link": "https://digitalchew.com/2025/03/google-stadia-shuts-down-what-you-need-to-know/",
+        "snippet": "Key Takeaways: Google Stadia is ending its service on January 18, 2024. Users can play games until the shutdown date. Refunds will be issued for purchases, including hardware. Introduction: Google Stadia, a cloud gaming service that once promised revolutionized game access, is closing down in January 2024.",
+        "date": "Mar 19, 2025"
+      },
+      {
+        "title": "Stadia Announcement FAQ - Stadia Help - Google Help",
+        "link": "https://support.google.com/stadia/answer/12790109/",
+        "snippet": "Stadia Pro subscriptions are not eligible for refund, however you will be able to continue playing your games in Pro without further charges until the final wind down date.",
+        "date": ""
+      },
+      {
+        "title": "Google is shutting down Stadia : r/Stadia - Reddit",
+        "link": "https://www.reddit.com/r/Stadia/comments/xrby6h/google_is_shutting_down_stadia/",
+        "snippet": "Google is shutting down Stadia, its cloud gaming service. The service will remain live for players until January 18th, 2023. Google will be refunding all Stadia hardware purchased through the Google Store as well as all the games and add-on content purchased from the Stadia store. Google expects those refunds will be completed in mid-January.",
+        "date": ""
+      },
+      {
+        "title": "Stadia Shut Down FAQ : r/Stadia - Reddit",
+        "link": "https://www.reddit.com/r/Stadia/comments/xrce32/stadia_shut_down_faq/",
+        "snippet": "On September 29, 2022, Google announced that the Stadia servers will be turned off on January 18, 2023. The following article includes answers to common questions and will be updated as new information becomes available.",
+        "date": ""
+      }
+    ]
+  },
+  "obituary": {
+    "raw": "{\"announced\": \"2022-09-29\", \"died\": \"2023-01-18\", \"cause\": \"Google shut down the service following mixed reception from reviewers, criticism regarding its limited library, and the abandonment of its in-house game development plans.\", \"source\": 1, \"evidence\": \"Stadia was shut down on January 18, 2023.\"}",
+    "ok": true,
+    "died": "2023-01-18",
+    "cause": "Google shut down the service following mixed reception from reviewers, criticism regarding its limited library, and the abandonment of its in-house game development plans.",
+    "evidence": "Stadia was shut down on January 18, 2023.",
+    "source": {
+      "title": "Stadia",
+      "link": "https://stadia.google.com/gg/"
+    }
+  },
+  "snapshot": {
+    "timestamp": "20230117220616",
+    "date": "2023-01-17",
+    "url": "https://web.archive.org/web/20230117220616/https://stadia.google.com/",
+    "title": "Stadia - One place for all the ways we play",
+    "image": "https://web.archive.org/web/20230117220616im_/https://ssl.gstatic.com/stadia/gamers/assets/stadia_logo_and_text_v1.jpg",
+    "text_chars": 373
+  },
+  "attempts": [
+    {
+      "raw": "{\n  \"what\": \"Stadia was one place for all the ways we play.\",\n  \"last_words\": \"Stadia will wind down January 18, 2023.\",\n  \"calavera\": \"You promised one place for all ways to play,\\nBut mixed reviews sent you on your way.\\nNo studio games to keep the spark bright,\\nNow Stadia sleeps in the eternal night.\"\n}",
+      "verified": true
+    }
+  ],
+  "ofrenda": {
+    "what": "Stadia was one place for all the ways we play.",
+    "last_words": "Stadia will wind down January 18, 2023.",
+    "calavera": "You promised one place for all ways to play,\nBut mixed reviews sent you on your way.\nNo studio games to keep the spark bright,\nNow Stadia sleeps in the eternal night."
+  },
+  "error": null,
+  "finished": "2026-10-30T12:29:29.544Z"
+}

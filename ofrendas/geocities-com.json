@@ -1,0 +1,92 @@
+{
+  "domain": "geocities.com",
+  "name": "GeoCities",
+  "model": "gemma-4-31b-it",
+  "started": "2026-10-30T12:25:50.295Z",
+  "search": {
+    "engine": "duckduckgo",
+    "query": "GeoCities shut down date",
+    "results": [
+      {
+        "title": "GeoCities - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/GeoCities",
+        "snippet": "GeoCities, later Yahoo! GeoCities, was a web hosting service that allowed users to create and publish websites free of charge, and to browse user-created websites by their theme or interest, active from 1994 to 2009. GeoCities was started in November 1994 by David Bohnett and John Rezner, and was named Beverly Hills Internet briefly before being renamed GeoCities. [1] On January 28, 1999, it ...",
+        "date": ""
+      },
+      {
+        "title": "GeoCities - Fanlore",
+        "link": "https://fanlore.org/wiki/GeoCities",
+        "snippet": "GeoCities was a free web-hosting service that opened in 1994 and was shut down the week of October 26, 2009. [1][2] It was an enormously popular service for fansites in the 90s, hosting fanarchives, fanfiction, fanart, zine advertising, and all the myriad fan creations. Attempts to access web sites formerly hosted by GeoCities using the original GeoCities URL now lead to a site advertising ...",
+        "date": "Jul 5, 2026"
+      },
+      {
+        "title": "What Happened to GeoCities? The Lost City of the Web",
+        "link": "https://webhistorian.co.uk/what-happened-to-geocities/",
+        "snippet": "GeoCities was shut down by Yahoo on 23 October 2009, after the company decided the platform was no longer commercially viable. Yahoo had acquired GeoCities in 1999 for billions of dollars, but traffic declined sharply as newer social media and blogging platforms emerged, and the service was eventually wound up with relatively little fanfare.",
+        "date": "Jun 27, 2026"
+      },
+      {
+        "title": "What happened to Geocities - The Silicon Underground",
+        "link": "https://dfarq.homeip.net/what-happened-to-geocities/",
+        "snippet": "The end of Geocities On April 23, 2009, Yahoo announced the end of life for Geocities in the United States and stopped accepting new registrations. The existing pages remained active until 2014, though they couldn't be updated. Several projects to archive Geocities content sprung up, including one at the Internet Archive.",
+        "date": "Jan 27, 2026"
+      },
+      {
+        "title": "What Ever Happened to GeoCities? - TechSpot",
+        "link": "https://www.techspot.com/article/2401-geocities/",
+        "snippet": "Big in Japan In April 2009, Yahoo! announced that it would shut down GeoCities in October of that same year, deleting the sites of everyone who hadn't migrated to the paid Yahoo!",
+        "date": ""
+      },
+      {
+        "title": "Say farewell to GeoCities, the vintage Web-hosting site - CNN",
+        "link": "https://www.cnn.com/2009/TECH/10/26/geocities.closing/index.html",
+        "snippet": "GeoCities, launched in 1998, was to be shut down by Yahoo on Monday The site was where millions of Web users first tried design Toronto, Canada, user says the U2 fan page she created on GeoCities ...",
+        "date": "Oct 26, 2009"
+      },
+      {
+        "title": "GeoCities (1994 - 2009) :: rip.so",
+        "link": "https://rip.so/geocities.html",
+        "snippet": "GeoCities shut down on 26 October 2009. the free web hosting service where almost everyone made their first web page.",
+        "date": ""
+      },
+      {
+        "title": "The Death of GeoCities — and the Website Preserving the Internet's Lost ...",
+        "link": "https://flaminky.com/en/death-of-geocities/",
+        "snippet": "When GeoCities shut down in 2009, a huge part of internet history vanished with it. Or so we thought. What GeoCities Really Was GeoCities wasn't just a website builder — it was an early social internet. Users created pages about their hobbies, fan theories, pets, diaries, poetry, conspiracies, and obsessions.",
+        "date": "Jan 16, 2026"
+      }
+    ]
+  },
+  "obituary": {
+    "raw": "{\"announced\": \"2009-04-23\", \"died\": \"2009-10-26\", \"cause\": \"Yahoo decided the platform was no longer commercially viable.\", \"source\": 6, \"evidence\": \"GeoCities shut down on 26 October 2009.\"}",
+    "ok": true,
+    "died": "2009-10-26",
+    "cause": "Yahoo decided the platform was no longer commercially viable.",
+    "evidence": "GeoCities shut down on 26 October 2009.",
+    "source": {
+      "title": "GeoCities (1994 - 2009) :: rip.so",
+      "link": "https://rip.so/geocities.html"
+    }
+  },
+  "snapshot": {
+    "timestamp": "20071202031442",
+    "date": "2007-12-02",
+    "url": "https://web.archive.org/web/20071202031442/http://www.geocities.com/",
+    "title": "Yahoo! GeoCities: Get a free web site with easy-to-use site building tools",
+    "image": "https://web.archive.org/web/20071202031442im_/http://us.i1.yimg.com/us.yimg.com/i/us/smbiz/misc/geo_a_brunette.jpg",
+    "text_chars": 1842
+  },
+  "attempts": [
+    {
+      "raw": "{\n  \"what\": \"GeoCities was a platform that provided free web sites with easy-to-use site building tools.\",\n  \"last_words\": \"No other notice of the expiration of these offers will be given.\",\n  \"calavera\": \"You gave us tools and space for free,\\nA digital home for all to see.\\nBut Yahoo said you cost too much,\\nNow you're a ghost, a distant touch.\"\n}",
+      "verified": true
+    }
+  ],
+  "ofrenda": {
+    "what": "GeoCities was a platform that provided free web sites with easy-to-use site building tools.",
+    "last_words": "No other notice of the expiration of these offers will be given.",
+    "calavera": "You gave us tools and space for free,\nA digital home for all to see.\nBut Yahoo said you cost too much,\nNow you're a ghost, a distant touch."
+  },
+  "error": null,
+  "finished": "2026-10-30T12:26:56.564Z"
+}

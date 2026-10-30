@@ -1,0 +1,92 @@
+{
+  "domain": "aim.com",
+  "name": "AOL Instant Messenger",
+  "model": "gemma-4-31b-it",
+  "started": "2026-10-30T12:35:12.204Z",
+  "search": {
+    "engine": "duckduckgo",
+    "query": "AOL Instant Messenger shut down date",
+    "results": [
+      {
+        "title": "AIM (software) - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/AIM_(software)",
+        "snippet": "AOL Instant Messenger (AIM, sometimes stylized as aim) was an instant messaging and presence information computer program created by AOL that operated from 1997 to 2017.",
+        "date": ""
+      },
+      {
+        "title": "AOL Instant Messenger is shutting down after 20 years",
+        "link": "https://techcrunch.com/2017/10/06/aol-instant-messenger-shut-down/",
+        "snippet": "The pioneering chat app that taught us to text is pulling the plug. On December 15th, AOL Instant Messenger will shut down after running since 1997. AIM dominated online chat in North America at ...",
+        "date": "Oct 6, 2017"
+      },
+      {
+        "title": "AIM: what happened, and why it shut down | Looks Back",
+        "link": "https://looksback.com/aim",
+        "snippet": "AIM (AOL Instant Messenger) was America's dominant instant messenger from the late 1990s through the mid-2000s, launched in May 1997. Away messages, buddy lists and its door-slam sounds defined online adolescence for a generation. Verizon's Oath shut it down on 15 December 2017 after twenty years. Timeline 1997 May 1997 Launch",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "title": "Farewell, AIM: AOL Instant Messenger is shut down | PCWorld",
+        "link": "https://www.pcworld.com/article/407480/aim-aol-instant-messenger-shutting-down.html",
+        "snippet": "And AOL Instant Messenger isn't the only turn of the century vanguard to fall on hard times; Microsoft shut down MSN Messenger in 2014, while Yahoo Messenger closed up shop last year.",
+        "date": ""
+      },
+      {
+        "title": "List of defunct instant messaging platforms - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/List_of_defunct_instant_messaging_platforms",
+        "snippet": "This is an alphabetical list of defunct instant messaging platforms.",
+        "date": ""
+      },
+      {
+        "title": "A Going-Away Message: AOL Instant Messenger Is Shutting Down",
+        "link": "https://www.nytimes.com/2017/10/06/technology/aol-aim-shut-down.html",
+        "snippet": "AOL Instant Messenger, the chat program that connected a generation to their classmates and crushes while guiding them through the early days of digital socializing, will shut down on Dec. 15, a ...",
+        "date": "Oct 6, 2017"
+      },
+      {
+        "title": "AIM shutting down: AOL's Instant Messenger to sign off",
+        "link": "https://www.cbsnews.com/news/aol-discontinuing-aim-pioneering-instant-messenger/",
+        "snippet": "An article on AOL's website posted Friday says AOL Instant Messenger will be discontinued on Dec. 15. AOL says it's shutting down the program because its focus is \"on building the next generation ...",
+        "date": ""
+      },
+      {
+        "title": "AOL Instant Messenger (1997 - 2017) :: rip.so",
+        "link": "https://rip.so/aim.html",
+        "snippet": "AOL Instant Messenger shut down on 15 December 2017. the AOL Instant Messenger that defined how american millennials talked to their classmates after school.",
+        "date": ""
+      }
+    ]
+  },
+  "obituary": {
+    "raw": "{\n  \"announced\": \"2017-10-06\",\n  \"died\": \"2017-12-15\",\n  \"cause\": \"AOL is shutting down the program because its focus is \\\"on building the next generation\\\".\",\n  \"source\": 1,\n  \"evidence\": \"On December 15th, AOL Instant Messenger will shut down after running since 1997.\"\n}",
+    "ok": true,
+    "died": "2017-12-15",
+    "cause": "AOL is shutting down the program because its focus is \"on building the next generation\".",
+    "evidence": "On December 15th, AOL Instant Messenger will shut down after running since 1997.",
+    "source": {
+      "title": "AOL Instant Messenger is shutting down after 20 years",
+      "link": "https://techcrunch.com/2017/10/06/aol-instant-messenger-shut-down/"
+    }
+  },
+  "snapshot": {
+    "timestamp": "20150806123047",
+    "date": "2015-08-06",
+    "url": "https://web.archive.org/web/20150806123047/http://www.aim.com/",
+    "title": "AIM | Chat, Share, Connect",
+    "image": "https://web.archive.org/web/20150806123047im_/https://s.aolcdn.com/aimcom/static/2.45.0.2/products/img/hat_logo_aim.png",
+    "text_chars": 2459
+  },
+  "attempts": [
+    {
+      "raw": "{\n  \"what\": \"AIM was a platform used to chat, share, and connect with friends through group conversations and integrated social media feeds.\",\n  \"last_words\": \"Stay connected to all your friends.\",\n  \"calavera\": \"You linked us to Google and Facebook's feed,\\nA group chat was all that we'd ever need.\\nThe 'next generation' pushed you out the door,\\nNow you don't have to ping us anymore.\"\n}",
+      "verified": true
+    }
+  ],
+  "ofrenda": {
+    "what": "AIM was a platform used to chat, share, and connect with friends through group conversations and integrated social media feeds.",
+    "last_words": "Stay connected to all your friends.",
+    "calavera": "You linked us to Google and Facebook's feed,\nA group chat was all that we'd ever need.\nThe 'next generation' pushed you out the door,\nNow you don't have to ping us anymore."
+  },
+  "error": null,
+  "finished": "2026-10-30T12:36:04.959Z"
+}

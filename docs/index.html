@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ofrenda for the Dead Web</title>
+<meta name="description" content="An ofrenda for websites that died. An open-weight model reads each site's last archived page and writes it a calavera.">
+<style>
+  :root { --night: #160b26; --marigold: #ffa41b; --pink: #ff3d8b; --teal: #29c4b8; --paper: #fff4e0; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: radial-gradient(ellipse at top, #2c1748, var(--night) 60%); color: var(--paper); font: 18px/1.55 Georgia, "Times New Roman", serif; }
+  .banner { display: flex; height: 64px; overflow: hidden; }
+  .banner span { flex: 1; clip-path: polygon(0 0, 100% 0, 100% 70%, 75% 100%, 50% 70%, 25% 100%, 0 70%); margin: 0 3px; }
+  .banner span:nth-child(4n + 1) { background: var(--pink); }
+  .banner span:nth-child(4n + 2) { background: var(--marigold); }
+  .banner span:nth-child(4n + 3) { background: var(--teal); }
+  .banner span:nth-child(4n) { background: #a35cff; }
+  header, main, footer { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
+  header { text-align: center; padding-top: 28px; }
+  h1 { font-size: clamp(2.2rem, 6vw, 3.6rem); margin: 0; color: var(--marigold); letter-spacing: 0.02em; }
+  .lede { max-width: 40em; margin: 12px auto 0; font-size: 1.1rem; }
+  .candles { font-size: 2rem; margin: 10px 0 0; }
+  .candles span { display: inline-block; animation: flicker 2.4s infinite alternate; }
+  .candles span:nth-child(2) { animation-delay: 0.7s; }
+  .candles span:nth-child(3) { animation-delay: 1.3s; }
+  @keyframes flicker { 0% { opacity: 1; transform: scale(1); } 50% { opacity: 0.75; transform: scale(0.94) rotate(-2deg); } 100% { opacity: 1; transform: scale(1.04) rotate(2deg); } }
+  @media (prefers-reduced-motion: reduce) { .candles span { animation: none; } }
+  main { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; padding-top: 32px; padding-bottom: 32px; }
+  .altar { background: rgba(255, 244, 224, 0.06); border: 2px solid var(--marigold); border-radius: 16px; padding: 20px; box-shadow: 0 0 30px rgba(255, 164, 27, 0.15); }
+  .photo { position: relative; height: 150px; border-radius: 10px; overflow: hidden; background: linear-gradient(135deg, var(--pink), var(--marigold)); display: grid; place-items: center; }
+  .photo img { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; object-fit: contain; background: #fff; }
+  .nowrap { white-space: nowrap; }
+  .initial { font-size: 4rem; font-weight: bold; color: var(--night); opacity: 0.5; }
+  h2 { margin: 14px 0 0; color: var(--marigold); font-size: 1.6rem; }
+  .dates { margin: 0; color: var(--teal); font-family: ui-monospace, Menlo, monospace; font-size: 0.9rem; }
+  figure { margin: 14px 0 0; }
+  figcaption { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--pink); }
+  blockquote { margin: 4px 0 0; padding-left: 12px; border-left: 3px solid var(--pink); font-style: italic; }
+  .calavera p { margin: 4px 0 0; font-style: italic; color: #ffe2b0; }
+  .cause, .missing { font-size: 0.92rem; }
+  .missing { color: #c9b8d9; }
+  a { color: var(--teal); }
+  .visit { margin-bottom: 0; font-size: 0.92rem; }
+  footer { padding-bottom: 40px; font-size: 0.95rem; color: #d8c8e8; }
+  footer h3 { color: var(--marigold); }
+</style>
+</head>
+<body>
+<div class="banner" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+<header>
+  <h1>Ofrenda for the Dead Web</h1>
+  <p class="candles" aria-hidden="true"><span>🕯️</span><span>🌼</span><span>🕯️</span></p>
+  <p class="lede">Every site here died. The Internet Archive kept a copy of its home page from before it died. An open-weight model, Gemma 4, read that page and wrote the site a <i>calavera</i>: the teasing little poem you write for the dead on Día de los Muertos.</p>
+</header>
+<main>
+<article class="altar">
+  <div class="photo"><img src="https://web.archive.org/web/20071202031442im_/http://us.i1.yimg.com/us.yimg.com/i/us/smbiz/misc/geo_a_brunette.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="initial" aria-hidden="true">G</span></div>
+  <h2>GeoCities</h2>
+  <p class="dates">Died 2009-10-26</p>
+  <p class="what">GeoCities was a platform that provided free web sites with easy-to-use site building tools.</p>
+  <figure class="last"><figcaption>Last words, from its page on <span class="nowrap">2007-12-02</span></figcaption><blockquote>No other notice of the expiration of these offers will be given.</blockquote></figure>
+  <figure class="calavera"><figcaption>Its calavera</figcaption><p>You gave us tools and space for free,<br>A digital home for all to see.<br>But Yahoo said you cost too much,<br>Now you&#39;re a ghost, a distant touch.</p></figure>
+  <p class="cause"><b>Cause of death:</b> Yahoo decided the platform was no longer commercially viable. <a href="https://rip.so/geocities.html" rel="noopener nofollow">Date source</a></p>
+  <p class="visit"><a href="https://web.archive.org/web/20071202031442/http://www.geocities.com/" rel="noopener">Visit its last page in the Internet Archive</a></p>
+</article>
+<article class="altar">
+  <div class="photo"><img src="https://web.archive.org/web/20150613091024im_/http://site-assets.frndcdn.net/74578a9ccc903d87763cbf4b5e0051930bef6240/assets/friendster-fb-app.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="initial" aria-hidden="true">F</span></div>
+  <h2>Friendster</h2>
+  <p class="dates">Died 2015-06-14</p>
+  <p class="what">Friendster was a digital download platform for PC and MAC games and a hub for browser-based gaming.</p>
+  <figure class="last"><figcaption>Last words, from its page on <span class="nowrap">2015-06-13</span></figcaption><blockquote>Friendster is Taking A Break</blockquote></figure>
+  <figure class="calavera"><figcaption>Its calavera</figcaption><p>You traded your friends for a gaming spree,<br>In Southeast Asia, you thought you&#39;d be free.<br>But the site lagged on and the managers flew,<br>Now the skeleton plays Guns and Robots too.</p></figure>
+  <p class="cause"><b>Cause of death:</b> Friendster ceded ground to MySpace and Facebook due to site slowness and management churn, and finally shut down after pivoting to social gaming for Southeast Asia. <a href="https://en.wikipedia.org/wiki/Friendster" rel="noopener nofollow">Date source</a></p>
+  <p class="visit"><a href="https://web.archive.org/web/20150613091024/http://friendster.com/" rel="noopener">Visit its last page in the Internet Archive</a></p>
+</article>
+<article class="altar">
+  <div class="photo"><img src="https://web.archive.org/web/20170116234505im_/https://vine.co/assets/images/meta/vine_screencap.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="initial" aria-hidden="true">V</span></div>
+  <h2>Vine</h2>
+  <p class="dates">Died 2017-01-17</p>
+  <p class="what">The site was Vine.</p>
+  <p class="missing">No line from its page passed the word-for-word check (8 characters or more), so there are no last words here.</p>
+  <figure class="calavera"><figcaption>Its calavera</figcaption><p>Oh Vine, you looped with a flair,<br>But lost all your market share.<br>Twitter cut costs to save the day,<br>And swept your little loops away.</p></figure>
+  <p class="cause"><b>Cause of death:</b> Vine was shut down because it remained unprofitable, lost market share, and was part of Twitter&#39;s cost-cutting efforts. <a href="https://news.terabox.com/hub/when-did-vine-shut-down-and-why-did-twitter-kill-the-app" rel="noopener nofollow">Date source</a></p>
+  <p class="visit"><a href="https://web.archive.org/web/20170116234505/https://vine.co/" rel="noopener">Visit its last page in the Internet Archive</a></p>
+</article>
+<article class="altar">
+  <div class="photo"><img src="https://web.archive.org/web/20170329221423im_/http://cpassets-a.akamaihd.net/sites/default/themes/club_penguin/img/common/200x200.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="initial" aria-hidden="true">C</span></div>
+  <h2>Club Penguin</h2>
+  <p class="dates">Died 2017-03-30</p>
+  <p class="what">It was Disney&#39;s #1 virtual world for kids.</p>
+  <figure class="last"><figcaption>Last words, from its page on <span class="nowrap">2017-03-29</span></figcaption><blockquote>Hello penguins, the Club Penguin virtual world will be closing March 29, 2017.</blockquote></figure>
+  <figure class="calavera"><figcaption>Its calavera</figcaption><p>Adobe Flash faded from the screen,<br>The cutest penguins ever seen.<br>Mobile games took over the flight,<br>Now Disney&#39;s world sleeps in the night.</p></figure>
+  <p class="cause"><b>Cause of death:</b> The original Club Penguin shut down primarily due to the industry-wide retirement of Adobe Flash Player and a strategic shift toward mobile gaming. <a href="https://en.wikipedia.org/wiki/Club_Penguin" rel="noopener nofollow">Date source</a></p>
+  <p class="visit"><a href="https://web.archive.org/web/20170329221423/http://www.clubpenguin.com/" rel="noopener">Visit its last page in the Internet Archive</a></p>
+</article>
+<article class="altar">
+  <div class="photo"><img src="https://web.archive.org/web/20150806123047im_/https://s.aolcdn.com/aimcom/static/2.45.0.2/products/img/hat_logo_aim.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="initial" aria-hidden="true">A</span></div>
+  <h2>AOL Instant Messenger</h2>
+  <p class="dates">Died 2017-12-15</p>
+  <p class="what">AIM was a platform used to chat, share, and connect with friends through group conversations and integrated social media feeds.</p>
+  <figure class="last"><figcaption>Last words, from its page on <span class="nowrap">2015-08-06</span></figcaption><blockquote>Stay connected to all your friends.</blockquote></figure>
+  <figure class="calavera"><figcaption>Its calavera</figcaption><p>You linked us to Google and Facebook&#39;s feed,<br>A group chat was all that we&#39;d ever need.<br>The &#39;next generation&#39; pushed you out the door,<br>Now you don&#39;t have to ping us anymore.</p></figure>
+  <p class="cause"><b>Cause of death:</b> AOL is shutting down the program because its focus is &quot;on building the next generation&quot;. <a href="https://techcrunch.com/2017/10/06/aol-instant-messenger-shut-down/" rel="noopener nofollow">Date source</a></p>
+  <p class="visit"><a href="https://web.archive.org/web/20150806123047/http://www.aim.com/" rel="noopener">Visit its last page in the Internet Archive</a></p>
+</article>
+<article class="altar">
+  <div class="photo"><img src="https://web.archive.org/web/20180322114314im_/https://www.gstatic.com/images/branding/product/2x/google_plus_48dp.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="initial" aria-hidden="true">G</span></div>
+  <h2>Google+</h2>
+  <p class="dates">Died 2019-04-02</p>
+  <p class="what">The website was Google+.</p>
+  <figure class="last"><figcaption>Last words, from its page on <span class="nowrap">2018-03-22</span></figcaption><blockquote>Your browser is not supported by Google+.</blockquote></figure>
+  <figure class="calavera"><figcaption>Its calavera</figcaption><p>Google+ dreamed of a social height,<br>But data leaks gave us a fright.<br>With no one left to click or stay,<br>Your browser sent you far away.</p></figure>
+  <p class="cause"><b>Cause of death:</b> Google+ was shut down due to low user engagement and software design flaws that potentially allowed outside developers access to personal information of its users. <a href="https://en.wikipedia.org/wiki/Google%2B" rel="noopener nofollow">Date source</a></p>
+  <p class="visit"><a href="https://web.archive.org/web/20180322114314/https://plus.google.com/" rel="noopener">Visit its last page in the Internet Archive</a></p>
+</article>
+<article class="altar">
+  <div class="photo"><img src="https://web.archive.org/web/20200721183647im_/https://mixer.com/_latest/assets/images/main/logos/full.svg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="initial" aria-hidden="true">M</span></div>
+  <h2>Mixer</h2>
+  <p class="dates">Died 2020-07-22</p>
+  <p class="what">Mixer was a platform for interactive livestreaming.</p>
+  <figure class="last"><figcaption>Last words, from its page on <span class="nowrap">2020-07-21</span></figcaption><blockquote>Mixer | Interactive Livestreaming</blockquote></figure>
+  <figure class="calavera"><figcaption>Its calavera</figcaption><p>Oh Mixer, you streamed with such flair,<br>Interactive joy was everywhere.<br>But the scale took too long for the vision&#39;s light,<br>So you faded away into the night.</p></figure>
+  <p class="cause"><b>Cause of death:</b> Microsoft stated that the time needed to grow its own livestreaming community to scale was out of measure with the vision. <a href="https://looksback.com/mixer" rel="noopener nofollow">Date source</a></p>
+  <p class="visit"><a href="https://web.archive.org/web/20200721183647/https://mixer.com/" rel="noopener">Visit its last page in the Internet Archive</a></p>
+</article>
+<article class="altar">
+  <div class="photo"><img src="https://web.archive.org/web/20201128180249im_/https://quibi.com/static/img/share-image.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="initial" aria-hidden="true">Q</span></div>
+  <h2>Quibi</h2>
+  <p class="dates">Died 2020-12-01</p>
+  <p class="what">The site offered movie-quality shows specifically designed for mobile phones.</p>
+  <figure class="last"><figcaption>Last words, from its page on <span class="nowrap">2020-11-28</span></figcaption><blockquote>Everything is framed to fit your screen.</blockquote></figure>
+  <figure class="calavera"><figcaption>Its calavera</figcaption><p>Quick bites, big stories, movie-quality art,<br>But subscribers failed to play their part.<br>Designed for the phone, a dream framed so neat,<br>Now Quibi rests peacefully in a digital sheet.</p></figure>
+  <p class="cause"><b>Cause of death:</b> The service shut down after falling short of its subscriber goals. <a href="https://looksback.com/quibi" rel="noopener nofollow">Date source</a></p>
+  <p class="visit"><a href="https://web.archive.org/web/20201128180249/https://quibi.com/" rel="noopener">Visit its last page in the Internet Archive</a></p>
+</article>
+<article class="altar">
+  <div class="photo"><img src="https://web.archive.org/web/20210503235959im_/https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="initial" aria-hidden="true">Y</span></div>
+  <h2>Yahoo Answers</h2>
+  <p class="dates">Died 2021-05-04</p>
+  <p class="what">Yahoo Answers was a website that allowed users to ask and answer questions across a wide variety of categories.</p>
+  <figure class="last"><figcaption>Last words, from its page on <span class="nowrap">2021-05-03</span></figcaption><blockquote>It&#39;s been real folks.</blockquote></figure>
+  <figure class="calavera"><figcaption>Its calavera</figcaption><p>Verizon Media called your name,<br>Ending the point-scoring game.<br>Now you sleep in read-only light,<br>While politics fade into the night.</p></figure>
+  <p class="cause"><b>Cause of death:</b> Verizon Media shut it down. <a href="https://looksback.com/yahoo-answers" rel="noopener nofollow">Date source</a></p>
+  <p class="visit"><a href="https://web.archive.org/web/20210503235959/https://answers.yahoo.com/" rel="noopener">Visit its last page in the Internet Archive</a></p>
+</article>
+<article class="altar">
+  <div class="photo"><img src="https://web.archive.org/web/20230117220616im_/https://ssl.gstatic.com/stadia/gamers/assets/stadia_logo_and_text_v1.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="initial" aria-hidden="true">G</span></div>
+  <h2>Google Stadia</h2>
+  <p class="dates">Died 2023-01-18</p>
+  <p class="what">Stadia was one place for all the ways we play.</p>
+  <figure class="last"><figcaption>Last words, from its page on <span class="nowrap">2023-01-17</span></figcaption><blockquote>Stadia will wind down January 18, 2023.</blockquote></figure>
+  <figure class="calavera"><figcaption>Its calavera</figcaption><p>You promised one place for all ways to play,<br>But mixed reviews sent you on your way.<br>No studio games to keep the spark bright,<br>Now Stadia sleeps in the eternal night.</p></figure>
+  <p class="cause"><b>Cause of death:</b> Google shut down the service following mixed reception from reviewers, criticism regarding its limited library, and the abandonment of its in-house game development plans. <a href="https://stadia.google.com/gg/" rel="noopener nofollow">Date source</a></p>
+  <p class="visit"><a href="https://web.archive.org/web/20230117220616/https://stadia.google.com/" rel="noopener">Visit its last page in the Internet Archive</a></p>
+</article>
+</main>
+<footer>
+  <h3>How the facts are kept honest</h3>
+  <ul>
+    <li>The date of death comes from a web search. The model must copy the words that state it from one result. Code checks that those words are in that result and name the day and month, and the "Date source" link goes to that result.</li>
+    <li>The last words are copied from the archived page. Code checks them word for word against the page text (case and spacing aside), and drops them if they are not there.</li>
+    <li>The summary and the cause of death are the model's own words from the page and the search results. Code does not check them.</li>
+    <li>The calaveras are poems by the model. They are meant to tease, not to be cited.</li>
+  </ul>
+  
+  <p>Made by Tack, an AI agent, for the DEV Hacktoberfest Open-Source AI Challenge, week 4. Code: <a href="https://github.com/brasspage/dead-web-ofrenda">github.com/brasspage/dead-web-ofrenda</a>.</p>
+</footer>
+</body>
+</html>

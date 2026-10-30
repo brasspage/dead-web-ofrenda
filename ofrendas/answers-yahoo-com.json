@@ -1,0 +1,92 @@
+{
+  "domain": "answers.yahoo.com",
+  "name": "Yahoo Answers",
+  "model": "gemma-4-31b-it",
+  "started": "2026-10-30T12:24:05.086Z",
+  "search": {
+    "engine": "duckduckgo",
+    "query": "Yahoo Answers shut down date",
+    "results": [
+      {
+        "title": "Yahoo Answers - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Yahoo_Answers",
+        "snippet": "Answers was a community-driven question-and-answer (Q&A) website or knowledge market owned by Yahoo! where users would ask questions and answer those submitted by others, and upvote them to increase their visibility.",
+        "date": ""
+      },
+      {
+        "title": "Yahoo Answers: what happened, and why it shut down | Looks Back",
+        "link": "https://looksback.com/yahoo-answers",
+        "snippet": "Yahoo Answers was a community Q&A site that ran for fifteen years from December 2005, producing both genuinely helpful answers and some of the internet's most famous absurd questions. Verizon Media shut it down on 4 May 2021, redirecting the domain to the Yahoo homepage.",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "title": "Yahoo Answers is shutting down after 16 years. Here's how users can ...",
+        "link": "https://tech.yahoo.com/general/articles/yahoo-answers-shutting-down-16-233623017.html",
+        "snippet": "Yahoo Answers, one of the longest-running question-and-answer sites on the internet, is shutting down after 16 years. The site will shutter on May 4, according to a banner on the top of the Yahoo Answers homepage on Monday. An FAQ page said users won't be able to post any new questions or answers after April 20. Previous questions and answers can be viewed on the site until May 4 when they ...",
+        "date": ""
+      },
+      {
+        "title": "What Happened to Yahoo Answers? [The Final Shut Down]",
+        "link": "https://thinkmatrix.blog/what-happened-to-yahoo-answers",
+        "snippet": "Yahoo Answers is officially gone. Discover why Verizon Media shut down the iconic Q&A platform after 16 years and where the community has migrated today.",
+        "date": "Jun 13, 2026"
+      },
+      {
+        "title": "Yahoo Answers, a Longtime Place for the Internet's Weirdest Questions ...",
+        "link": "https://www.yahoo.com/entertainment/yahoo-answers-longtime-place-internets-205612692.html",
+        "snippet": "Antoine Antoniol/Bloomberg via Getty Images Yahoo Answers, a popular destination for some of the web's weirdest and funniest questions, will be shutting down for good.",
+        "date": ""
+      },
+      {
+        "title": "The Real Reason Yahoo! Answers Died Off - SlashGear",
+        "link": "https://www.slashgear.com/the-real-reason-yahoo-answers-died-off-10706485/",
+        "snippet": "Yahoo Answers shut down on May 4, 2021, closing a major chapter in the history of the internet. The site had been active for 16 years, serving as a destination for people looking to get answers to ...",
+        "date": ""
+      },
+      {
+        "title": "Yahoo Answers to Permanently Shut down on May 4 - Beebom",
+        "link": "https://beebom.com/yahoo-answers-shut-down/",
+        "snippet": "Almost three years ago, back in 2018, Yahoo Messenger shut down after a staggering 20-year-long run. Now, the Verizon-owned web company has decided to shut down yet another Yahoo platform. The popular Q&A platform Yahoo Answers will shut down on May 4.",
+        "date": ""
+      },
+      {
+        "title": "Yahoo Answers is Being Shut Down [End of a 15-Year Era]",
+        "link": "https://www.howtogadget.blog/yahoo-answers-shutting-down-15-years",
+        "snippet": "Yahoo Answers is being shut down finally after 15 long years of serving as the internet's most eccentric and unfiltered Q&A hub, with the official closure finalized on May 4, 2021. As one of the longest-running platforms in web history transitions into the digital afterlife, users are reflecting on a legacy defined by both profound curiosity and legendary internet memes.",
+        "date": "Aug 27, 2026"
+      }
+    ]
+  },
+  "obituary": {
+    "raw": "{\n  \"announced\": null,\n  \"died\": \"2021-05-04\",\n  \"cause\": \"Verizon Media shut it down.\",\n  \"source\": 1,\n  \"evidence\": \"Verizon Media shut it down on 4 May 2021\"\n}",
+    "ok": true,
+    "died": "2021-05-04",
+    "cause": "Verizon Media shut it down.",
+    "evidence": "Verizon Media shut it down on 4 May 2021",
+    "source": {
+      "title": "Yahoo Answers: what happened, and why it shut down | Looks Back",
+      "link": "https://looksback.com/yahoo-answers"
+    }
+  },
+  "snapshot": {
+    "timestamp": "20210503235959",
+    "date": "2021-05-03",
+    "url": "https://web.archive.org/web/20210503235959/https://answers.yahoo.com/",
+    "title": "Homepage | Yahoo Answers",
+    "image": "https://web.archive.org/web/20210503235959im_/https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+    "text_chars": 5402
+  },
+  "attempts": [
+    {
+      "raw": "{\n  \"what\": \"Yahoo Answers was a website that allowed users to ask and answer questions across a wide variety of categories.\",\n  \"last_words\": \"It's been real folks.\",\n  \"calavera\": \"Verizon Media called your name,\\nEnding the point-scoring game.\\nNow you sleep in read-only light,\\nWhile politics fade into the night.\"\n}",
+      "verified": true
+    }
+  ],
+  "ofrenda": {
+    "what": "Yahoo Answers was a website that allowed users to ask and answer questions across a wide variety of categories.",
+    "last_words": "It's been real folks.",
+    "calavera": "Verizon Media called your name,\nEnding the point-scoring game.\nNow you sleep in read-only light,\nWhile politics fade into the night."
+  },
+  "error": null,
+  "finished": "2026-10-30T12:25:50.253Z"
+}

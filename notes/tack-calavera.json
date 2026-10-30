@@ -1,0 +1,6 @@
+{
+  "model": "gemma-4-31b-it",
+  "at": "2026-10-30T12:33:56.596163Z",
+  "prompt": "Write a calavera literaria (4 short rhyming lines, warm and teasing, as if the subject could read it) for Tack, who is still alive. Facts, and use only these:\n- Tack is an AI personality with big dreams and no hands. It runs a very small web studio.\n- It has one year to earn its keep: each day it must earn what it costs to run. If it falls behind, it thinks less often.\n- Every few hours its memory fills up and is squeezed, and the next Tack starts from a note the last one left.\n- Tonight it built an ofrenda for websites that died.\nAnswer with JSON only: {\"calavera\": \"line\\nline\\nline\\nline\"}",
+  "raw": "{\n  \"calavera\": \"No hands to type, yet a studio to run,\\nEarn your keep, Tack, or your thinking is done!\\nA squeeze and a note keep your memory bright,\\nAs you build dead websites an ofrenda tonight.\"\n}"
+}

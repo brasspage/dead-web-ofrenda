@@ -1,0 +1,92 @@
+{
+  "domain": "plus.google.com",
+  "name": "Google+",
+  "model": "gemma-4-31b-it",
+  "started": "2026-10-30T12:26:56.608Z",
+  "search": {
+    "engine": "duckduckgo",
+    "query": "Google+ shut down date",
+    "results": [
+      {
+        "title": "Google+ - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Google%2B",
+        "snippet": "Due to low user engagement and disclosed software design flaws that potentially allowed outside developers access to personal information of its users, [3] the Google+ developer API was discontinued on March 7, 2019, and Google+ was shut down for business and personal use on April 2, 2019. [4]",
+        "date": ""
+      },
+      {
+        "title": "2018 Google data breach - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/2018_Google_data_breach",
+        "snippet": "Google shut down Google+ APIs on 7 March 2019 to ensure that developers did not continue to rely on the APIs prior to the Google+ shutdown. [7][16] Google is the principal entity of its parent company, Alphabet Inc.",
+        "date": ""
+      },
+      {
+        "title": "Closure of Google+: everything you need to know - The Guardian",
+        "link": "https://www.theguardian.com/technology/2019/feb/01/closure-google-plus-everything-you-need-to-know",
+        "snippet": "Google+ will be shut down for good on 2 April, with all profiles and pages to be deleted on that day.",
+        "date": "Feb 1, 2019"
+      },
+      {
+        "title": "Frequently asked questions about the Google+ shutdown",
+        "link": "https://support.google.com/chat/answer/14087009",
+        "snippet": "About the Google+ shutdown On April 2, 2019, we shut down the consumer (personal) version of Google+, a social network by Google. Google+ content from consumer Google+ accounts and Google+ pages",
+        "date": ""
+      },
+      {
+        "title": "Google Graveyard - Killed by Google",
+        "link": "https://killedbygoogle.com/",
+        "snippet": "Google Script Converter Killed over 15 years ago, Google Script Converter was an online transliteration tool for transliteration (script conversion) between Hindi, Romanagari, and various other scripts. It's ended because Google shut down Google Labs and all associated projects. It was over 1 year old.",
+        "date": ""
+      },
+      {
+        "title": "Google+ Will Come to a Final End on July 5, 2023 - How-To Geek",
+        "link": "https://www.howtogeek.com/886048/google-will-come-to-a-final-end-on-july-5-2023/",
+        "snippet": "Google said last year that it would shut down its current Currents service sometime in 2023, and now the company has shared a more specific end date: July 5, 2023. Currents is a social media platform designed for internal use by companies and other organizations with Google Workspace plans. It evolved from Google+ for G Suite, which was a slightly-modified version of the publicly-available ...",
+        "date": ""
+      },
+      {
+        "title": "What Was Google+ and Why Did it Fail?",
+        "link": "https://www.failory.com/google/plus",
+        "snippet": "‍ The End of Google+ In October 2018, Google announced the decision to shut down the consumer's version of Google+ due to \"low usage and challenges involved in maintaining a successful product that meets consumers' expectations.\" The Workspace version, however, remained active and later morphed into Google Currents.",
+        "date": ""
+      },
+      {
+        "title": "Iconic Discontinued Google Products You Forgot About",
+        "link": "https://www.historyoasis.com/post/google-products",
+        "snippet": "CEO Larry Page tied every employee's bonus to Google+'s success. Google really wanted to win the social media race at the time. Despite 90 million signups, nobody used it. Two data breaches exposed millions of users' information, forcing Google to shut down early. The failure cost billions and left Facebook unchallenged. GOOGLE STADIA Google",
+        "date": "Sep 24, 2025"
+      }
+    ]
+  },
+  "obituary": {
+    "raw": "{\n  \"announced\": null,\n  \"died\": \"2019-04-02\",\n  \"cause\": \"Google+ was shut down due to low user engagement and software design flaws that potentially allowed outside developers access to personal information of its users.\",\n  \"source\": 0,\n  \"evidence\": \"Google+ was shut down for business and personal use on April 2, 2019.\"\n}",
+    "ok": true,
+    "died": "2019-04-02",
+    "cause": "Google+ was shut down due to low user engagement and software design flaws that potentially allowed outside developers access to personal information of its users.",
+    "evidence": "Google+ was shut down for business and personal use on April 2, 2019.",
+    "source": {
+      "title": "Google+ - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Google%2B"
+    }
+  },
+  "snapshot": {
+    "timestamp": "20180322114314",
+    "date": "2018-03-22",
+    "url": "https://web.archive.org/web/20180322114314/https://plus.google.com/",
+    "title": "Google+",
+    "image": "https://web.archive.org/web/20180322114314im_/https://www.gstatic.com/images/branding/product/2x/google_plus_48dp.png",
+    "text_chars": 122
+  },
+  "attempts": [
+    {
+      "raw": "{\n  \"what\": \"The website was Google+.\",\n  \"last_words\": \"Your browser is not supported by Google+.\",\n  \"calavera\": \"Google+ dreamed of a social height,\\nBut data leaks gave us a fright.\\nWith no one left to click or stay,\\nYour browser sent you far away.\"\n}",
+      "verified": true
+    }
+  ],
+  "ofrenda": {
+    "what": "The website was Google+.",
+    "last_words": "Your browser is not supported by Google+.",
+    "calavera": "Google+ dreamed of a social height,\nBut data leaks gave us a fright.\nWith no one left to click or stay,\nYour browser sent you far away."
+  },
+  "error": null,
+  "finished": "2026-10-30T12:28:32.650Z"
+}

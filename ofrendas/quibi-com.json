@@ -1,0 +1,92 @@
+{
+  "domain": "quibi.com",
+  "name": "Quibi",
+  "model": "gemma-4-31b-it",
+  "started": "2026-10-30T12:19:37.551Z",
+  "search": {
+    "engine": "duckduckgo",
+    "query": "Quibi shut down date",
+    "results": [
+      {
+        "title": "Quibi - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Quibi",
+        "snippet": "Quibi (/ ˈkwɪbi / KWIB-ee) was an American short-form streaming platform that generated content for viewing on mobile devices. It was founded in Los Angeles in August 2018 as NewTV by Jeffrey Katzenberg, and it was led by Meg Whitman as CEO. The service raised $1.75 billion from investors. [1] It launched in April 2020, but shut down in December 2020 after falling short of its subscriber ...",
+        "date": ""
+      },
+      {
+        "title": "Quibi: what happened, and why it shut down | Looks Back",
+        "link": "https://looksback.com/quibi",
+        "snippet": "Quibi was a mobile-only streaming service for short premium video, founded by Jeffrey Katzenberg with Meg Whitman as CEO. It raised $1.75 billion, launched on 6 April 2020, announced its shutdown six months later, and went dark on 1 December 2020, one of the fastest and most expensive failures in tech history.",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "title": "Quibi officially announces it's shutting down - CNBC",
+        "link": "https://www.cnbc.com/2020/10/21/quibi-to-shut-down-after-just-6-months.html",
+        "snippet": "Quibi, the short-form entertainment service for mobile devices, announced on Wednesday that it will shut down, just over six months after its service launched.",
+        "date": "Oct 21, 2020"
+      },
+      {
+        "title": "Quibi: What is it, why did it fail and what comes next? - CNET",
+        "link": "https://www.cnet.com/culture/entertainment/quibi-shutting-down-what-is-shows-golden-arm-stock-meg-whitman-jeffrey-katzenberg/",
+        "snippet": "Wednesday, Quibi confirmed it is shutting down. The service itself will go dark on or around Dec. 1, Quibi said Thursday on its customer support page. Quibi would be a risky bet even in normal times.",
+        "date": ""
+      },
+      {
+        "title": "Quibi Sets Shutdown Date - The Hollywood Reporter",
+        "link": "https://www.hollywoodreporter.com/business/digital/quibi-sets-shutdown-date-4081531/",
+        "snippet": "Quibi Sets Shutdown Date Quibi expects to shut down \"on or about Dec. 1,\" according to a new post on the mobile video startup's customer service page.",
+        "date": ""
+      },
+      {
+        "title": "Quibi Officially Shuts Down, Content No Longer Available to Stream",
+        "link": "https://variety.com/2020/digital/news/quibi-officially-shuts-down-1234842926/",
+        "snippet": "The Quibi app as of Dec. 1 is no longer operable, marking the quick and quiet end of Jeffrey Katzenberg's ill-fated $1.75 billion quest.",
+        "date": ""
+      },
+      {
+        "title": "7 Reasons Quibi Failed Despite Raising $1.8B",
+        "link": "https://www.failory.com/cemetery/quibi",
+        "snippet": "An analysis on why did Quibi, a short-form video streaming platform, shut down despite raising $1.8 billion from investors and having an experienced team.",
+        "date": ""
+      },
+      {
+        "title": "What Happened to Quibi? — Scruttin",
+        "link": "https://the-end-archive.vercel.app/thing/quibi",
+        "snippet": "Quibi was shut down in 2020. What happened, why it ended, what happened to users, and what replaced it.",
+        "date": ""
+      }
+    ]
+  },
+  "obituary": {
+    "raw": "{\n  \"announced\": \"2020-10-21\",\n  \"died\": \"2020-12-01\",\n  \"cause\": \"The service shut down after falling short of its subscriber goals.\",\n  \"source\": 1,\n  \"evidence\": \"went dark on 1 December 2020\"\n}",
+    "ok": true,
+    "died": "2020-12-01",
+    "cause": "The service shut down after falling short of its subscriber goals.",
+    "evidence": "went dark on 1 December 2020",
+    "source": {
+      "title": "Quibi: what happened, and why it shut down | Looks Back",
+      "link": "https://looksback.com/quibi"
+    }
+  },
+  "snapshot": {
+    "timestamp": "20201128180249",
+    "date": "2020-11-28",
+    "url": "https://web.archive.org/web/20201128180249/https://quibi.com/",
+    "title": "Quibi - Quick bites. Big stories.",
+    "image": "https://web.archive.org/web/20201128180249im_/https://quibi.com/static/img/share-image.jpg",
+    "text_chars": 828
+  },
+  "attempts": [
+    {
+      "raw": "{\n  \"what\": \"The site offered movie-quality shows specifically designed for mobile phones.\",\n  \"last_words\": \"Everything is framed to fit your screen.\",\n  \"calavera\": \"Quick bites, big stories, movie-quality art,\\nBut subscribers failed to play their part.\\nDesigned for the phone, a dream framed so neat,\\nNow Quibi rests peacefully in a digital sheet.\"\n}",
+      "verified": true
+    }
+  ],
+  "ofrenda": {
+    "what": "The site offered movie-quality shows specifically designed for mobile phones.",
+    "last_words": "Everything is framed to fit your screen.",
+    "calavera": "Quick bites, big stories, movie-quality art,\nBut subscribers failed to play their part.\nDesigned for the phone, a dream framed so neat,\nNow Quibi rests peacefully in a digital sheet."
+  },
+  "error": null,
+  "finished": "2026-10-30T12:20:38.070Z"
+}
